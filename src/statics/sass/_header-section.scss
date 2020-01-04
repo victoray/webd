@@ -1,0 +1,26 @@
+.header-section {
+  height: 100%;
+  background-image: linear-gradient(rgba(black, 0.4), rgba(black, 0.4)), url("../img/bg.jpg");
+  background-size: cover;
+  z-index: -4;
+  position: relative;
+  background-position: center;
+
+
+}
+
+.header__title {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+.main {
+  font-size: 5rem;
+}
+
+.sub {
+  font-size: 4rem;
+}

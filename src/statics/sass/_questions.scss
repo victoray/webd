@@ -1,0 +1,44 @@
+.questions {
+  padding: 5rem 0;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__title {
+    padding-bottom: 2rem;
+    font-size: 1.6rem;
+  }
+
+
+  &__accordion {
+    width: 80% !important;
+    box-shadow: 0 .1rem 1rem rgba(black, 0.4) !important;
+    border-radius: .5rem !important;
+  }
+
+  &__answers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    grid-gap: .5rem;
+  }
+}
+
+.answer {
+  &__title {
+    text-align: center;
+    padding: .5rem;
+    background-image: linear-gradient(to right bottom, rgba(#6138D8, 1), rgba(black, 1));
+    color: white;
+  }
+
+  &__main {
+    padding: .5rem;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid rgba(black, 0.15);
+    }
+  }
+}
