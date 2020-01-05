@@ -2,9 +2,12 @@
   border-radius: 0 !important;
   height: 100%;
   background-image: linear-gradient(to right bottom, rgba(#6138D8, 1), rgba(black, 1)) !important;
+  position: sticky;
+  top: 0;
 
   &__logo {
     width: 5rem !important;
   }
+
 }
 

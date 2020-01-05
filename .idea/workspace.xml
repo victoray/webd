@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="606cb6ab-c2e0-4f36-bb65-7cb4affc174d" name="Default Changelist" comment="" />
+    <list default="true" id="606cb6ab-c2e0-4f36-bb65-7cb4affc174d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/main.css.map" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578165610605</updated>
-      <workItem from="1578165612143" duration="10215000" />
+      <workItem from="1578165612143" duration="11177000" />
     </task>
     <servers />
   </component>
